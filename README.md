@@ -1,4 +1,4 @@
-# Hi, I'm Megan amd here's a couple things about me:
+# Hi, I'm Megan and here's a couple things about me:
 👩🏽‍💻Aspiring Data Engineer showcasing my journey in tech<br>👩🏽‍🎓Majoring in Information Systems Engineering at Universidad Americana UAM, Nicaragua<br>🔭 I’m currently working on some data-oriented projects<br>🌱 learning about Data Engineering<br>⭐️Open to Internships
 
 
