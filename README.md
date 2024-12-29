@@ -1,7 +1,10 @@
 ## Hi, I'm Megan!
 
-🔭 I’m currently working on some data-oriented projects 
-🌱 learning about Data Engineering
+👩🏽‍💻Information Systems Engineer showcasing my journey in tech</br>
+👩🏽‍🎓Student at Universidad Americana UAM</br>
+🔭 I’m currently working on some data-oriented projects</br>
+🌱 learning about Data Engineering</br>
+
 
 
 - 📫 How to reach me: ...
